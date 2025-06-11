@@ -3,7 +3,7 @@
 <a href="https://gitlab.com/HanBnrd" target="_blank" style="text-decoration:none"><img src="https://img.shields.io/badge/GitLab-HanBnrd-blue?logo=gitlab" alt="HanBnrd" height="25"></a> <a href="https://github.com/HanBnrd" target="_blank" style="text-decoration:none"><img src="https://img.shields.io/badge/GitHub-HanBnrd-blue?logo=github" alt="HanBnrd" height="25"></a>
 
 | Main open-source contributions |
-|---|
+|:-:|
 | <a href="https://gitlab.com/HanBnrd/benchnirs" target="_blank" style="text-decoration:none"><img src="https://img.shields.io/badge/BenchNIRS-grey?logo=gitlab" alt="BenchNIRS" height="25"></a> |
 | <a href="https://github.com/HanBnrd/NIRSimple" target="_blank" style="text-decoration:none"><img src="https://img.shields.io/badge/NIRSimple-grey?logo=github" alt="NIRSimple" height="25"></a> |
 | <a href="https://gitlab.com/HanBnrd/workload-bci" target="_blank" style="text-decoration:none"><img src="https://img.shields.io/badge/Workload BCI-grey?logo=gitlab" alt="Workload BCI" height="25"> |
