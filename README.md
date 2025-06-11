@@ -4,8 +4,8 @@
 
 | Main open-source contributions |
 |:-:|
-| <a href="https://gitlab.com/HanBnrd/benchnirs" target="_blank" style="text-decoration:none"><img src="https://img.shields.io/badge/BenchNIRS-grey?logo=gitlab" alt="BenchNIRS" height="25"></a> |
-| <a href="https://github.com/HanBnrd/NIRSimple" target="_blank" style="text-decoration:none"><img src="https://img.shields.io/badge/NIRSimple-grey?logo=github" alt="NIRSimple" height="25"></a> |
-| <a href="https://gitlab.com/HanBnrd/workload-bci" target="_blank" style="text-decoration:none"><img src="https://img.shields.io/badge/Workload BCI-grey?logo=gitlab" alt="Workload BCI" height="25"> |
-| <a href="https://github.com/mne-tools/mne-python" target="_blank" style="text-decoration:none"><img src="https://img.shields.io/badge/MNE Python-grey?logo=github" alt="MNE Python" height="25"> |
-| <a href="https://github.com/celiao/tmdbsimple" target="_blank" style="text-decoration:none"><img src="https://img.shields.io/badge/TMDb Simple-grey?logo=github" alt="TMDb Simple" height="25"> |
+| <a href="https://gitlab.com/HanBnrd/benchnirs" target="_blank" style="text-decoration:none"><img src="https://img.shields.io/badge/BenchNIRS-black?logo=gitlab" alt="BenchNIRS" height="25"></a> |
+| <a href="https://github.com/HanBnrd/NIRSimple" target="_blank" style="text-decoration:none"><img src="https://img.shields.io/badge/NIRSimple-black?logo=github" alt="NIRSimple" height="25"></a> |
+| <a href="https://gitlab.com/HanBnrd/workload-bci" target="_blank" style="text-decoration:none"><img src="https://img.shields.io/badge/Workload BCI-black?logo=gitlab" alt="Workload BCI" height="25"> |
+| <a href="https://github.com/mne-tools/mne-python" target="_blank" style="text-decoration:none"><img src="https://img.shields.io/badge/MNE Python-black?logo=github" alt="MNE Python" height="25"> |
+| <a href="https://github.com/celiao/tmdbsimple" target="_blank" style="text-decoration:none"><img src="https://img.shields.io/badge/TMDb Simple-black?logo=github" alt="TMDb Simple" height="25"> |
